@@ -1,3 +1,4 @@
+//example for using variants
 "use client";
 // import * as motion from 'motion/react-client'
 import { motion } from "motion/react";
