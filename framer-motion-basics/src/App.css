@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 *{
   margin: 0;
   padding: 0;
@@ -12,10 +14,4 @@ html,body{
 body{
   background-color: black;
  
-}
-.box{
-  height: 200px;
-  width:200px;
-  background-color: lightblue;
-  border:2px solid white;
 }
